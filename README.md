@@ -24,7 +24,7 @@ How to Use
     bash
 
 git clone https://github.com/yihune21/Fire-Detector-ML-model.git
-cd fire-detection
+cd fire detector
 
 Install dependencies:
 
@@ -34,17 +34,7 @@ bash
 
     Run the Jupyter Notebook or Python script to train, evaluate, and visualize the model.
 
-Results
 
-The model achieves [mention accuracy/recall/specific metric] and demonstrates [mention any specific patterns or insights].
-Future Improvements
-
-[Optional: Mention any planned enhancements, optimizations, or additional features.]
-Contributors
-
-    Yihune Zewdie
+    [Yihune Zewdie[
      
 
-License
-
-This project is licensed under the AASTU License.
