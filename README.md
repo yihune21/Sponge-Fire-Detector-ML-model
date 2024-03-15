@@ -39,6 +39,6 @@ In summary, the fire detection machine learning model presented in this reposito
 
 
 
-    [Yihune Zewdie[
+    [ Yihune Zewdie ]
      
 
